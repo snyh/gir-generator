@@ -1,3 +1,5 @@
+* THIS PROJECT HAS MOVED TO https://github.com/linuxdeepin/go-gir-generator *
+
 gir-generator is base on [nsf/gobject](https://github.com/nsf/gogobject)
 
 Fix the build/generate code error.
